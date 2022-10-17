@@ -1,3 +1,5 @@
+#Health Insurance Prediction
+
 This project implements a Home Automation System.
 By automating tasks that are done by humans, we can save time and energy. The
 hectic daily life routine sometimes makes men forgetful such as forgetting to
