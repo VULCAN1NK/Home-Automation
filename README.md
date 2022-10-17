@@ -1,4 +1,4 @@
-Home Automation System
+# Home Automation System
 
 This project implements a Home Automation System.
 By automating tasks that are done by humans, we can save time and energy. The
